@@ -1,3 +1,3 @@
 # MY_FIRST_PROJECT
-Basic command 
+Basic command and knowledge of git .
 
